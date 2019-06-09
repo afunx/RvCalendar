@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="calendar">
+        <attr name="toolbar_height" format="dimension" />
+        <attr name="week_height" format="dimension" />
+        <attr name="month_height" format="dimension" />
+    </declare-styleable>
+</resources>

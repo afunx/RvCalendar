@@ -8,10 +8,10 @@
 
     <me.afunx.widget.RvCalendar
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="400dp"
         android:layout_alignParentBottom="true"
-        app:month_height="100dp"
-        app:toolbar_height="100dp"
-        app:week_height="100dp" />
+        app:month_height="60dp"
+        app:toolbar_height="60dp"
+        app:week_height="60dp" />
 
 </RelativeLayout>
